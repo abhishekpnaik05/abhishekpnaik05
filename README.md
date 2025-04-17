@@ -3,7 +3,7 @@
 
 ## 🧑‍💻 About Me
 
-💼 Currently working as a **React Inter** at **Codemodulo Technologies**, contributing to dynamic frontend development and real-world projects.  
+💼 Currently working as a **React Intern** at **Codemodulo Technologies**, contributing to dynamic frontend development and real-world projects.  
 🎓 Computer Science and Engineering student with a passion for building smart, scalable solutions.  
 🌐 Interested in full-stack development, UI/UX design, and real-time web applications.  
 💡 Enjoys solving problems through clean code and intuitive user interfaces.
